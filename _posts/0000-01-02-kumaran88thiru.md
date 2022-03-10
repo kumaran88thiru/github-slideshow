@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+earn 10000 dollar monthly from home
 Use the left arrow to go back!
